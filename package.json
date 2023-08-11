@@ -1,0 +1,22 @@
+// 20230811103113
+// https://static.platzi.com/media/tmp/class-files/github/curso-api-rest-javascript-practico/curso-api-rest-javascript-practico-d0f14b4597a65711eb449e3cd962b2811ed6135c/package.json
+
+{
+    "name": "curso-api-rest-javascript-practico",
+    "version": "1.0.0",
+    "description": "Curso Práctico de Consumo de API REST con JavaScript",
+    "main": "index.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/platzi/curso-api-rest-javascript-practico.git"
+    },
+    "author": "@juandc :)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/platzi/curso-api-rest-javascript-practico/issues"
+    },
+    "homepage": "https://github.com/platzi/curso-api-rest-javascript-practico#readme"
+  }
